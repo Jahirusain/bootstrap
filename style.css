@@ -1,0 +1,625 @@
+.d-flex{
+position: absolute;
+left:1000px;
+}
+#k11{
+    position:sticky;
+    
+}
+.font{
+    font-style: italic;
+    color: aqua;
+    position: absolute;
+top: 300px;
+left:45%
+}
+.fall{
+    font-style:bold;
+    color:aqua;
+    position: absolute;
+top: 330px;
+left:39%
+}
+
+.about{
+    font-style: bold;
+    color: rgb(0, 0, 0);
+    font-size: large;
+    position: absolute;
+    top: 60px;
+
+}
+.hr{
+    border: 0px;
+    width: 30px;
+    height: 5px;
+    background-color: rgb(230, 67, 67);
+position: absolute;
+top: 80px;
+}
+
+.rod{
+    border: 0px;
+    width: 150px;
+    height: 2px;
+    background-color: rgb(230, 67, 67);
+position: absolute;
+top: 95px;
+}
+.photo{
+    border: 2px solid black;
+    width: 250px;
+    position: absolute;
+    bottom: 250px;
+    left:190px;
+}
+.border{
+ background-color: azure;
+    border: 2px solid black;
+    width: 1000px;
+    height: 300px;
+    
+    }
+    .ui{
+        
+        position: absolute;
+        right: 650px;
+        bottom: 425px;
+    }
+    .pa{
+        font-size:xx-small;
+        color:red ;
+        position: absolute;
+        right:360px;
+        bottom: 450px; 
+    }
+    .birthday{
+        font-size:x-small ;
+        position: absolute;
+        right:720px;
+        bottom: 350px; 
+    }
+    .age{
+        font-size:x-small ;
+        position: absolute;
+        right:520px;
+        bottom: 350px;
+    }
+    .web{
+        font-size:x-small ;
+        position: absolute;
+        right:703px;
+        bottom: 325px;  
+    }
+    .degree{
+
+        font-size:x-small ;
+        position: absolute;
+        right:505px;
+        bottom: 325px;
+    }
+    .mobile{
+        font-size:x-small ;
+        position: absolute;
+        right:700px;
+        bottom: 300px;
+}
+.email{
+    font-size:x-small ;
+        position: absolute;
+        right:400px;
+        bottom: 300px;
+}
+.city{
+    font-size:x-small ;
+    position: absolute;
+    right:770px;
+    bottom: 270px;
+}
+.free{
+    font-size:x-small ;
+    position: absolute;
+    right:470px;
+    bottom: 270px;
+}
+.ri{
+    font-size:x-small ;
+    position: absolute;
+    right:400px;
+    bottom: 200px;  
+}
+
+.li{
+    border: 0px;
+    width: 300px;
+    height: 2px;
+    background-color: rgb(230, 67, 67);
+position: absolute;
+top: 95px;
+}
+.wi{
+    border: 0px;
+    width: 30px;
+    height: 5px;
+    background-color: rgb(230, 67, 67);
+position: absolute;
+top: 80px;
+
+}
+.a{
+    border: 2px solid rgb(0, 0, 0);
+    width: 300px;
+    height: 2px;
+    position: absolute;
+    bottom: 450px;
+    right: 900px;
+}
+.b{
+    border: 2px solid red;
+    width: 300px;
+    height: 2px;
+    position: absolute;
+    bottom: 450px;
+    right: 900px; 
+}
+.c{
+    border: 2px solid rgb(0, 0, 0);
+    width: 300px;
+    height: 2px;
+    position: absolute;
+    bottom: 450px;
+    right: 400px;
+}
+.d{
+    border: 2px solid red;
+    width: 200px;
+    height: 2px;
+    position: absolute;
+    bottom: 450px;
+    right: 500px;
+}
+.e{
+    border: 2px solid rgb(0, 0, 0);
+    width: 300px;
+    height: 2px;
+    position: absolute;
+    bottom: 390px;
+    right: 900px;
+
+}
+.f{
+    border: 2px solid red;
+    width: 150px;
+    height: 2px;
+    position: absolute;
+    bottom: 390px;
+    right: 1050px; 
+
+}
+.g{
+    border: 2px solid rgb(0, 0, 0);
+    width: 300px;
+    height: 2px;
+    position: absolute;
+    bottom: 390px;
+    right: 400px;
+
+}
+.h{
+    border: 2px solid red;
+    width: 100px;
+    height: 2px;
+    position: absolute;
+    bottom: 390px;
+    right: 600px; 
+
+}
+.i{
+    border: 2px solid rgb(0, 0, 0);
+    width: 300px;
+    height: 2px;
+    position: absolute;
+    bottom: 325px;
+    right: 900px;
+
+}
+.j{
+    border: 2px solid red;
+    width: 75px;
+    height: 2px;
+    position: absolute;
+    bottom: 325px;
+    right: 1125px; 
+
+}
+.k{
+    border: 2px solid rgb(0, 0, 0);
+    width: 300px;
+    height: 2px;
+    position: absolute;
+    bottom: 325px;
+    right: 400px;
+
+}
+.l{
+    border: 2px solid red;
+    width: 125px;
+    height: 2px;
+    position: absolute;
+    bottom: 325px;
+    right: 575px; 
+
+}
+
+   
+   
+.m{
+    font-size:x-small ;
+    position: absolute;
+    bottom: 440px;
+    right: 900px;
+}
+.n{
+    font-size:x-small ;
+    position: absolute;
+    bottom: 440px;
+    right: 410px;
+}
+.o{
+    font-size:x-small ;
+    position: absolute;
+    bottom: 380px;
+    right: 910px;
+}
+.p{
+    font-size:x-small ;
+    position: absolute;
+    bottom: 380px;
+    right: 410px;
+}
+.q{
+    font-size:x-small ;
+    position: absolute;
+    bottom: 310px;
+    right: 900px;
+}
+.r{
+    font-size:x-small ;
+    position: absolute;
+    bottom: 310px;
+    right: 410px;
+}
+
+
+#k5{
+    background-color: aliceblue;
+    border: 2px solid black;
+    width: 850px;
+    height: 850px;
+}
+.hii{
+    border: 0px;
+    width: 50px;
+    height: 5px;
+    background-color: rgb(230, 67, 67);
+position: absolute;
+top: 95px;
+}
+
+
+body {
+    font-family: 'Arial', sans-serif;
+    background-color:#f8f9fa;
+    color: #333;
+}
+
+h2, h3 {
+    color: #007bff;
+}
+
+h5 {
+    font-size: 1.1em;
+    font-weight: bold;
+}
+
+ul {
+    list-style-type: none;
+    padding-left: 0;
+}
+
+ul li {
+    margin-bottom: 15px;
+}
+
+.lead {
+    font-size: 1.25em;
+    color: #555;
+}
+
+.container {
+    max-width: 1000px;
+    margin: 0 auto;
+}
+
+.col-md-4 {
+    background-color: #ffffff;
+    padding: 20px;
+    border-radius: 5px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+.col-md-8 {
+    background-color: #ffffff;
+    padding: 20px;
+    border-radius: 5px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+h3 {
+    margin-top: 30px;
+    color: #343a40;
+}
+
+
+#fifa{
+    background-color: rgb(240, 240, 240);
+    border: 0px solid black;
+    width: 850px;
+    height: 1000px;
+}
+.nav{
+    position: absolute;
+    right: 600px;
+}
+#nav1{
+    color:rgb(0, 0, 0);
+    font-size: 10px;
+    border: 2px solid black;
+    width: 50px;
+    height: 30px;
+    border-radius: 20px;
+    background-color: rgb(255, 255, 255);
+}
+#nav1:hover{
+    background-color: rgb(255, 0, 140);
+}
+#nav2{
+    color:black;
+    font-size: 10px;
+    border: 2px solid black;
+    width: 50px;
+    height: 30px;
+    border-radius: 20px;
+    background-color: #ffffff;
+}
+#nav2:hover{
+    background-color: rgb(255, 0, 140);
+}
+   
+#nav3{
+    color:black;
+    font-size: 10px;
+    border: 2px solid rgb(0, 0, 0);
+    width: 50px;
+    height: 30px;
+    border-radius: 20px;
+    background-color: rgb(255, 255, 255);
+}
+#nav3:hover{
+    background-color: rgb(255, 0, 140);
+}
+#nav4{
+    color:black;
+    font-size: 10px;
+    border: 2px solid black;
+    width: 50px;
+    height: 30px;
+    border-radius: 20px;
+    background-color: rgb(255, 255, 255);
+}
+#nav4:hover{
+    background-color: rgb(255, 0, 140);
+}
+.sl1{
+    position: absolute;
+    right: 570px;
+    bottom: -225px;
+}
+.sl2{
+    position: absolute;
+    right: 570px;
+    bottom: 100px;
+}
+.sl3{
+        position: absolute;
+        right: 570px;
+        bottom: -450px;
+}
+.sl4{
+    position: absolute;
+    right:830px;
+    bottom: 100px;
+}
+.sl7{
+    position: absolute;
+    right:830px;
+    bottom: -320px;
+}
+.sl5{
+    position: absolute;
+    right: 309px;
+    bottom: 100px;
+}
+.sl6{
+    position: absolute;
+    right: 309px;
+    bottom: -140px;
+}
+.sl9{
+    position: absolute;
+    right: 309px;
+    bottom: -350px;
+}
+.sl8{
+    position: absolute;
+    right: 309px;
+    bottom: -460px;
+}
+
+
+.file{
+    position: absolute;
+    bottom: 250px;
+}
+#p3{
+   color: #ff0099;
+   
+    
+}
+#p2{
+    border: 2px solid rgb(255, 0, 0);
+    background-color:rgb(255, 0, 183);
+    border-radius: 10px;
+    position: absolute;
+    bottom:170px;
+    right: 200px;
+}
+#f20{
+    position: absolute;
+    bottom: 10;
+}
+.contact .info i {
+    font-size: 24px;
+    color: #ff0099;
+    float: left;
+    width: 44px;
+    height: 44px;
+    background: #fff;
+    border-radius: 50%;
+    box-shadow: 0px 0 29px 0 rgba(68, 88, 144, 0.1);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  
+  .contact .info h4 {
+    font-size: 22px;
+    color: #111;
+    font-weight: 700;
+    margin-left: 60px;
+    margin-bottom: 5px;
+  }
+  
+  .contact .info p {
+    font-size: 14px;
+    color: #444;
+    margin-left: 60px;
+  }
+  
+  .contact .php-email-form .form-group input,
+  .contact .php-email-form .form-group textarea {
+    border-radius: 5px;
+    box-shadow: none;
+    font-size: 14px;
+  }
+  
+  .contact .php-email-form button[type="submit"] {
+    background: #ff0099;
+    border: 0;
+    padding: 10px 24px;
+    color: #fff;
+    transition: 0.4s;
+    border-radius: 50px;
+    position: absolute;
+
+  }
+  
+  .contact .php-email-form button[type="submit"]:hover {
+    background: #ff3366;
+  }
+  
+  #footer {
+    background: #f3f3f3;
+    padding: 30px 0;
+    color: #444;
+    font-size: 14px;
+    text-align: center;
+  }
+  
+  h3 {
+    font-size: 28px;
+    font-weight: 700;
+    margin: 0 0 20px 0;
+    padding: 0;
+    line-height: 1;
+    font-family: "Raleway", sans-serif;
+    color: #ff0099;
+  }
+  
+  p {
+    font-size: 14px;
+    font-family: "Raleway", sans-serif;
+    color: #777;
+    margin: 0 0 30px 0;
+    padding: 0;
+    line-height: 24px;
+  }
+  
+  .social-links a {
+    font-size: 18px;
+    display: inline-block;
+    background: #fff;
+    color: #444;
+  
+    padding: 10px 0;
+    margin-right: 4px;
+    border-radius: 50%;
+    text-align: center;
+    transition: 0.3s;
+    border: 1px solid #c0aeb9;
+    width: 30px;
+  }
+  
+  .social-links a:hover {
+    background: #6b6a6b;
+    color: #fff;
+    border-color: #f5f2f4;
+  }
+  
+  .copyright {
+    margin-top: 30px;
+    color: #666;
+  }
+  
+  .credits a {
+    color: #bebabd;
+  }
+  .button1{
+    border-radius: 20px;
+    background-color: #ff3366;
+    border: #f3f3f3;
+  }
+  .button1:hover{
+    transform: scale(1.05);
+   background-color:red;
+  }
+  .font4{
+    color: black;
+    text-decoration: none;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  }
+  .button2{
+      border-radius: 20px;
+      background-color: #ff3366;
+      border-color: #f3f3f3;
+  }
+  .button2:hover{
+    transform: scale(1.05);
+   background-color:red;
+   border-color: #f3f3f3;
+  }
+  #ff22{
+    position: absolute;
+    bottom: 80px;
+    right: 960px;
+  }
